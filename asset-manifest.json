@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xapun/static/css/main.18431605.css",
+    "main.js": "/xapun/static/js/main.54b1d21d.js",
+    "static/js/787.459d41b6.chunk.js": "/xapun/static/js/787.459d41b6.chunk.js",
+    "static/media/logo.jpg": "/xapun/static/media/logo.66adbbb416744813a0c2.jpg",
+    "index.html": "/xapun/index.html",
+    "main.18431605.css.map": "/xapun/static/css/main.18431605.css.map",
+    "main.54b1d21d.js.map": "/xapun/static/js/main.54b1d21d.js.map",
+    "787.459d41b6.chunk.js.map": "/xapun/static/js/787.459d41b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18431605.css",
+    "static/js/main.54b1d21d.js"
+  ]
+}
